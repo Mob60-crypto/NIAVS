@@ -1,0 +1,29 @@
+Techxonia Inc. Privacy Policy 
+for
+In-Case of Emergency (ICE) application
+
+
+Last Updated: August 23, 2017 06:10 PM GMT+5:45 
+
+
+What Does This Privacy Policy Cover? 
+In your dealings with ICE you may provide us with Device Permission for personal access i.e SMS Permission.
+SMS Permission for the purposes of this Privacy Policy means used for accessing features related to the User's 
+messaging including the sending, receiving and reading of SMS. This Privacy Policy does not apply to the practices of 
+entities that we do not own or control, or to individuals that we do not employ or manage. 
+More generally, we think of our privacy policy as a feature and hope that you’ll agree.  
+
+
+Android Permissions
+We request the following android permissions for the following reasons:
+android.permission.WAKE_LOCK. Needed to prevent the app from sleep
+android.permission.RECEIVE_BOOT_COMPLETED. Needed to notify the app after reboot
+android.permission.SEND_SMS. Needed to send SMS
+android.permission.READ_CONTACT. Needed to retrieve name and phone
+
+
+Enforcement 
+If you have any questions about this Privacy Policy, you should first contact us at techxonia@gmail.com
+
+Contacting Us 
+Any questions about this Privacy Policy should be addressed to techxonia@gmail.com
